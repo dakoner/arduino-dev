@@ -7,3 +7,6 @@
 [submodule "libraries/nanopb"]
 	path = libraries/nanopb
 	url = https://github.com/nanopb/nanopb.git
+[submodule "libraries/protobuf"]
+	path = libraries/protobuf
+	url = https://github.com/google/protobuf.git
