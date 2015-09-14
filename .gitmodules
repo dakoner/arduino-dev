@@ -1,15 +1,9 @@
-[submodule "Arduino-Makefile"]
-	path = Arduino-Makefile
-	url = https://github.com/sudar/Arduino-Makefile.git
 [submodule "arduino-mk"]
 	path = arduino-mk
 	url = https://github.com/sudar/Arduino-Makefile.git
 [submodule "libraries/Adafruit_NeoPixel"]
 	path = libraries/Adafruit_NeoPixel
 	url = https://github.com/adafruit/Adafruit_NeoPixel.git
-[submodule "src/libraries/nanopb"]
-	path = src/libraries/nanopb
-	url = https://github.com/nanopb/nanopb.git
 [submodule "libraries/nanopb"]
 	path = libraries/nanopb
 	url = https://github.com/nanopb/nanopb.git
